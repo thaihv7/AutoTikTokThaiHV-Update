@@ -1,6 +1,6 @@
 {
   "minSwipeSec": 8,
-  "maxSwipeSec": 22,
+  "maxSwipeSec": 23,
   "likeProbabilityPercent": 5,
   "extraSwipeProbabilityPercent": 5,
   "maxExtraSwipeSec": 13,
