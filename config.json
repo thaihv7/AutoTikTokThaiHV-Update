@@ -1,0 +1,13 @@
+{
+  "min_swipe_sec": 8,
+  "max_swipe_sec": 23,
+  "like_probability_percent": 5,
+  "save_share_probability_percent": 1,
+  "extra_swipe_percent": 5,
+  "max_extra_swipe_sec": 12,
+  "enable_auto_comment": false,
+  "comment_probability_percent": 2,
+  "min_run_min": 45,
+  "max_run_min": 65,
+  "lock_screen_after_finish": true
+}
