@@ -1,9 +1,9 @@
 {
   "minSwipeSec": 8,
-  "maxSwipeSec": 23,
+  "maxSwipeSec": 22,
   "likeProbabilityPercent": 5,
   "extraSwipeProbabilityPercent": 5,
-  "maxExtraSwipeSec": 12,
+  "maxExtraSwipeSec": 13,
   "enableAutoComment": true,
   "commentProbabilityPercent": 2,
   "saveShareProbabilityPercent": 1,
