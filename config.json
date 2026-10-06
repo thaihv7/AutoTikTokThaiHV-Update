@@ -16,7 +16,7 @@
   "scheduleTime1": "07:00-09:30",
   "schedule2Enabled": true,
   "scheduleTime2": "14:00-16:30",
-  "schedule3Enabled": false,
+  "schedule3Enabled": true,
   "scheduleTime3": "18:30-20:30",
 
   "commentBtnIds": [":id/eki", ":id/eev", ":id/ebs"],
