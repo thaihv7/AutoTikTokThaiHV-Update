@@ -13,11 +13,11 @@
   
   "scheduleEnabled": true,
   "schedule1Enabled": true,
-  "scheduleTime1": "07:00-09:30",
+  "scheduleTime1": "05:00-07:00",
   "schedule2Enabled": true,
-  "scheduleTime2": "14:00-16:30",
+  "scheduleTime2": "11:00-12:30",
   "schedule3Enabled": true,
-  "scheduleTime3": "18:30-20:30",
+  "scheduleTime3": "19:00-20:30",
 
   "commentBtnIds": [":id/eki", ":id/eev", ":id/ebs"],
   "editTextIds": [":id/ejx", ":id/eea", ":id/eb8"],
