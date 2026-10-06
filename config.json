@@ -19,11 +19,11 @@
   "schedule3Enabled": true,
   "scheduleTime3": "19:00-20:30",
 
-  "commentBtnIds": [":id/eki", ":id/eev", ":id/ebs"],
-  "editTextIds": [":id/ejx", ":id/eea", ":id/eb8"],
-  "sendBtnIds": [":id/eni", ":id/d1g", ":id/cxl", ":id/egy", ":id/cv2"],
-  "likeBtnIds": [":id/g6q", ":id/fyz", ":id/fui"],
-  "saveBtnIds": [":id/i6n", ":id/hw_", ":id/hqo"],
-  "shareBtnIds": [":id/w6z", ":id/vd0", ":id/v1d"],
-  "repostBtnIds": [":id/l0u", ":id/kla", ":id/kda"]
+  "commentBtnIds": [":id/eki", ":id/eev", ":id/ebs", ":id/efz"],
+  "editTextIds": [":id/ejx", ":id/efe", ":id/eea", ":id/eb8"],
+  "sendBtnIds": [":id/eni", ":id/cyb", ":id/ei2", ":id/d1g", ":id/cxl", ":id/egy", ":id/cv2"],
+  "likeBtnIds": [":id/g6q", ":id/g05", ":id/fyz", ":id/fui"],
+  "saveBtnIds": [":id/i6n",, ":id/hxn" ":id/hw_", ":id/hqo"],
+  "shareBtnIds": [":id/w6z",, ":id/vff" ":id/vd0", ":id/v1d"],
+  "repostBtnIds": [":id/l0u", ":id/kmq", ":id/kla", ":id/kda"]
 }
