@@ -33,4 +33,10 @@
   "msgBadgeUnread": [":id/gcs"],
   "msgBtnFriend": [":id/w1m", "w1m"],
   "msgBtnEmoji": [":id/kvb", "kvb"]
+
+  "feedSearchBtnIds": [":id/k_d", "k_d"],
+  "adIds": [":id/ewf", ":id/ggx", "ewf", "ggx"],
+  "liveIds": [":id/igv", ":id/tv_tips", "igv", "tv_tips"],
+  "photoIds": [":id/adayne", "adayne"]
+
 }
