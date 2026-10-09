@@ -24,7 +24,7 @@
     "sau_tuong_tac_max": 22,
     "thoi_gian_chay_min": 60,
     "thoi_gian_chay_max": 90,
-    "comment_percent": 0,
+    "comment_percent": 1,
     "binh_luan": false,
     "nhan_tin": true,
     "khoa_man_hinh": true
@@ -39,7 +39,7 @@
     "sau_tuong_tac_max": 25,
     "thoi_gian_chay_min": 40,
     "thoi_gian_chay_max": 70,
-    "comment_percent": 0,
+    "comment_percent": 1,
     "binh_luan": true,
     "nhan_tin": false,
     "khoa_man_hinh": true
@@ -69,7 +69,7 @@
     "sau_tuong_tac_max": 30,
     "thoi_gian_chay_min": 45,
     "thoi_gian_chay_max": 70,
-    "comment_percent": 0,
+    "comment_percent": 1,
     "binh_luan": true,
     "nhan_tin": true,
     "khoa_man_hinh": true
