@@ -1,6 +1,6 @@
 {
   "T2": {
-    "nghi_luot_min": 8,
+    "nghi_luot_min": 10,
     "nghi_luot_max": 25,
     "luu_share_percent": 1,
     "tym_percent": 5,
@@ -9,14 +9,14 @@
     "sau_tuong_tac_max": 20,
     "thoi_gian_chay_min": 45,
     "thoi_gian_chay_max": 65,
-    "comment_percent": 2,
+    "comment_percent": 1,
     "binh_luan": true,
     "nhan_tin": true,
     "khoa_man_hinh": true
   },
   "T3": {
-    "nghi_luot_min": 8,
-    "nghi_luot_max": 25,
+    "nghi_luot_min": 10,
+    "nghi_luot_max": 23,
     "luu_share_percent": 1,
     "tym_percent": 5,
     "vuot_nguoc_percent": 5,
