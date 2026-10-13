@@ -129,5 +129,6 @@
   "msgBtnEmoji": [":id/kvb", "kvb", ":id/kww"],
 
   "feedSearchBtnIds": [":id/k_d", "k_d", ":id/kav"],
+  "license_server": "http://thaihvmangnha.duckdns.org:7999",
   "max_force_stop_per_session": 20
 }
