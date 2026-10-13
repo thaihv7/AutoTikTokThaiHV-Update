@@ -128,5 +128,6 @@
   "msgBtnFriend": [":id/w1m", "w1m"],
   "msgBtnEmoji": [":id/kvb", "kvb"],
 
-  "feedSearchBtnIds": [":id/k_d", "k_d"]
+  "feedSearchBtnIds": [":id/k_d", "k_d"],
+  "max_force_stop_per_session": 20
 }
